@@ -61,6 +61,8 @@ b. I'd created a Linode instance computer running Ubuntu...;
     just to see if cloning GitHub repos would work there, too?  
     Answer: Yes. ;-)    
 
+-(I guess, cloning Github repo's pretty much works the same just about everywhere.)-  
+
 -----
 
 
