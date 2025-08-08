@@ -7,7 +7,8 @@
 
 ## Introduction  
 
-Whenever I'm learning *how to code*...; I often find that seeing actual screenshots helps...;     
+Whenever I'm learning *how to code*...;  
+I often find that seeing actual screenshots helps...;     
 to see the code in actual 'action', so to speak...;  
 and, without one having to guess exactly how that same code should be written...?    
 
