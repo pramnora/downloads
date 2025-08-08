@@ -41,13 +41,23 @@ I was successfully able to clone this repo.
 ### ACTUAL CODE  
 
 Here is an actual example of the command I used to clone this repo to my home computer...    
-> git clone https://github.com/pramnora/downloads.git  
+> $ git clone https://github.com/pramnora/downloads.git  
 
 -----
 
-*NOTE(S)*:-  
+**NOTE(S)**:
 
-a. I'd created a Linode instance computer running Ubuntu...;  
+-----
+
+a. The dollar symbol: ($) is NOT a part of the command.   
+  That just represents the Command prompt symbol which shows inside of Linux Mint Terminal window...;  
+  you type in your command after this prompt.   
+
+> $ (command is typed in here)  
+
+-----
+
+b. I'd created a Linode instance computer running Ubuntu...;  
     just to see if cloning GitHub repos would work there, too?  
     Answer: Yes. ;-)    
 
