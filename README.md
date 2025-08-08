@@ -8,9 +8,9 @@ downloads
 
 ## INTRODUCTION
 
-I created this 'downloads' repo...  
+I created this 'downloads' repo.,    
 with the intention of practicing grabbing repos from off Github.com;    
-and, I was able to successfully clone this repo.  
+and, I'm pleased to report that I was able to successfully clone this repo.  
 
 -----
 
