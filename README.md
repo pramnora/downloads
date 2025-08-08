@@ -40,5 +40,5 @@ I was successfully able to clone this repo.
 
 ### ACTUAL CODE  
 
-Here is an actual example of the command I used to close this repo to my home computer...    
+Here is an actual example of the command I used to clone this repo to my home computer...    
 > git clone https://github.com/pramnora/downloads.git  
