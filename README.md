@@ -32,9 +32,9 @@ and, I'm pleased to report that I was able to successfully clone this repo.
 
 ### ON YOUR COMPUTER   
 
-1. Open up a Terminal application window  
+1. Open up a Terminal application window: [SHIFT]+[CTRL]+[T]    
 2. Type in the command: git clone  
-3. Followed by the URL that you wish to clone (paste/[SHIFT]+[CTRL]+[V])  
+3. Followed by the URL that you wish to clone: (paste/[SHIFT]+[CTRL]+[V])  
 4. Finally, click the [ENTER] key...to start cloning...  
 5. When the cloning operation reports as 'done';     
    then, that's it the repo has now been fully cloned onto your own home/work computer.  
