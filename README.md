@@ -20,7 +20,10 @@ and, I'm pleased to report that I was able to successfully clone this repo.
 
 ### ON THE WEB...  
 
-1. Select the Github repository you wish to clone by visiting it's Github URL address.  
+1. Select the Github repository you wish to clone by visiting it's Github URL address:  
+
+- https://github.com/pramnora/downloads/tree/main  
+
 2. Click on the green button: [<> Code]  
 3. Make sure HTTPS is selected (default option)  
 4. Next, click on Copy URL to clipboard icon.  (copies the URL to clipboard)
