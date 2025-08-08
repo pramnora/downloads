@@ -24,6 +24,9 @@ so, will often go and visit seeing the National Gallery, regularly.
 Hardware: **iPad Air 2**  
 App: **Zen Brush**      
 
+3. The photo above was NOT taken by me...;  
+but, instead, is a picture I found to link to from off the internet.  
+
 -----
 
 ## Links  
