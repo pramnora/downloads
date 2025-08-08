@@ -8,9 +8,8 @@ downloads
 
 ## INTRODUCTION
 
-I created this 'downloads' repo...with the intention of practicing grabbing repos from off Github.com.  
-
-I was successfully able to clone this repo.  
+I created this 'downloads' repo...with the intention of practicing grabbing repos from off Github.com;    
+and, I was able to successfully clone this repo.  
 
 -----
 
