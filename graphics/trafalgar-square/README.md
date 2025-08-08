@@ -39,7 +39,8 @@ The National Gallery
 ## Other
 
 -(**NOTE**: I found: 'tomcam.github.io' page(s)...;  
-when I was trying to figure out how to add graphics to Github pages.    
+when I was trying to figure out how to add graphics to Github pages...?  
+    
 I also noticed he has quite a lot of extemely well written info. inside of his pages;   
 so, I decided to include a few links here.)-    
 
