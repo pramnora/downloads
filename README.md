@@ -18,7 +18,7 @@ I was successfully able to clone this repo.
 
 -----
 
-## ON THE WEB...  
+### ON THE WEB...  
 
 1. Select the Github repository you wish to clone by visiting it's Github URL address.  
 2. Click on the green button: [<> Code]  
@@ -27,7 +27,7 @@ I was successfully able to clone this repo.
 
 -----
 
-## ON YOUR COMPUTER   
+### ON YOUR COMPUTER   
 
 1. Open up a Terminal application window  
 2. Type in the command: git clone  
@@ -38,7 +38,7 @@ I was successfully able to clone this repo.
 
 -----
 
-## ACTUAL CODE  
+### ACTUAL CODE  
 
 Here is an actual example of the command I used to close this repo to my home computer...    
 > git clone https://github.com/pramnora/downloads.git  
