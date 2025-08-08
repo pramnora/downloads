@@ -33,3 +33,17 @@ but, instead, is a picture I found to link to from off the internet.
 
 The National Gallery  
 - https://www.nationalgallery.org.uk/  
+
+-----
+
+## Other
+
+- https://tomcam.github.io/  
+- https://tomcam.github.io/least-github-pages/  
+- https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html  
+- https://tomcam.github.io/spectre-book/  
+- https://vuepressbook.com/  
+- https://vuepressbook.com/introduction.html#who-s-the-audience-for-vuepress  
+
+
+
