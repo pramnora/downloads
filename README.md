@@ -49,7 +49,7 @@ Here is an actual example of the command I used to clone this repo to my home co
 
 a. I'd created a Linode instance computer running Ubuntu...;  
     just to see if cloning GitHub repos would work there, too?  
-    Answer: Yes, it did. ;-)  
+    Answer: Yes. ;-)    
 
 
 
