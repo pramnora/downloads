@@ -10,7 +10,9 @@ After staring up at the 4 x magnificent lion sculptures that lie around the squa
 I thought why not have a go at drawing two.   
 
 
-![Trafalgar Square Lions](https://thumbs.dreamstime.com/b/daytime-view-national-gallery-lion-statue-trafalgar-square-london-united-kingdom-national-gallery-lion-statue-220830241.jpg)
+![Trafalgar Square Lions/day](https://thumbs.dreamstime.com/b/daytime-view-national-gallery-lion-statue-trafalgar-square-london-united-kingdom-national-gallery-lion-statue-220830241.jpg)
+
+![Trafalgar Square Lions/(night)](lion-photo1.jpg)
 
 
 -----
