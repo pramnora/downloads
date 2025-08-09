@@ -9,6 +9,9 @@ I decided to go off and walk around the square for a bit...in order to see more.
 After staring up at the 4 x magnificent lion sculptures that lie around the square...;       
 I thought why not have a go at drawing one or two of these.   
 
+
+-----
+
 ![Trafalgar Square Lions/(night)](lion-photo1.jpg)
 
 
