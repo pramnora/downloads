@@ -9,9 +9,6 @@ I decided to go off and walk around the square for a bit...in order to see more.
 After staring up at the 4 x magnificent lion sculptures that lie around the square...;       
 I thought why not have a go at drawing two.   
 
-
-![Trafalgar Square Lions/day](https://thumbs.dreamstime.com/b/daytime-view-national-gallery-lion-statue-trafalgar-square-london-united-kingdom-national-gallery-lion-statue-220830241.jpg)
-
 ![Trafalgar Square Lions/(night)](lion-photo1.jpg)
 
 
@@ -26,8 +23,7 @@ so, will often go and visit seeing the National Gallery, regularly.
 Hardware: **iPad Air 2**  
 App: **Zen Brush**      
 
-3. The photo above was NOT taken by me...;  
-but, instead, is a picture I found to link to from off the internet.  
+3. The night lion photo was taken by me at Trafalgar Square...using the iPad Air 2/Built-in camera app.  
 
 -----
 
